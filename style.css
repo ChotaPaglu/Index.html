@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #020617, #4c1d95, #000000);
+  color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.card {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(168,85,247,0.3);
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+a {
+  color: #c084fc;
+  text-decoration: none;
+}
